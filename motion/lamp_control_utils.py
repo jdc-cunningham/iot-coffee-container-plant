@@ -12,7 +12,7 @@ IN4 = 26
 # waiting time - speed motor turns
 time = 0.001
 
-def initGpioPins():
+def init_gpio_pins():
     # set GPIO pins
     GPIO.setup(IN1,GPIO.OUT)
     GPIO.setup(IN2,GPIO.OUT)

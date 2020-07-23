@@ -6,7 +6,7 @@
 from lamp_control_utils import *
 from lamp_state import *
 
-initGpioPins()
+init_gpio_pins()
 
 lamp_is_on = is_lamp_on()
 
