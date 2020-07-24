@@ -1,3 +1,4 @@
+# note: for CRON these file paths will fail, you need a full path eg. /home/pi/etc...
 def is_lamp_on():
     f = open("lamp_state.txt", "r")
     file_contents = f.read()
