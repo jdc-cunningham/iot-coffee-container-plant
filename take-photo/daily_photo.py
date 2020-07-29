@@ -2,7 +2,8 @@ import os
 from os import path
 from datetime import datetime
 
-# this file runs by the sudo crontab as raspistill by default needs sudo
+# this file runs by the sudo crontab for the permissions involving public Apache folder for making the folder
+# for the photos/moving the photos into that folder
 
 date_today = datetime.today().strftime('%Y-%m-%d')
 
