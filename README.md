@@ -10,6 +10,12 @@ I also strapped a camera onto the light so I can schedule screenshots to eventua
 
 Only purpose is to schedule the growth light(wall timer) and take screenshtos for a timelapse. Also will have a web interface to show/filter the images by date.
 
+#### Requirements
+##### Hardware
+- Pi, pi cam, stepper/servo, power strip with switch, growth lamp, 3d printer
+##### Software
+- Python, Apache, Node/NPM
+
 #### Installation
 
 Everything is hosted on the Pi, it uses Apache for the web server and the photos are not indexed/paths are not stored anywhere. There is a known folder pattern and the front end checks if the particular images exist. This is just laziness but arguable not really necessary since I control the file names/where the images are saved.
