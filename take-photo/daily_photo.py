@@ -15,8 +15,15 @@ if (not path.isdir('/home/pi/plant-photos')):
         print ("Failed to create plant-photos directory in /home/pi/")
         os._exit(1)
 
+# turn lamp off temporarily
+# I did check the lamp_state.txt file is not set to root root but it's not...
+os.system('/usr/bin/python /home/pi/iot-coffee-container-plant/motion/lamp_off.py')
+
 # take picture
 os.system('cd /home/pi/plant-photos && raspistill -o ' + date_today + '.jpg -w 1280 -h 960')
+
+# turn lamp back on
+os.system('/usr/bin/python /home/pi/iot-coffee-container-plant/motion/lamp_on.py') # lazy full paths direct call vs. os.sys path append import
 
 # move picture into public folder if it exists and update photo permissions
 # this is kind of nasty, should write functions
