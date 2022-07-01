@@ -51,7 +51,8 @@ So this definitely expanded... the functionality has remained the same. Main cha
 I'm growing: bell peppers (mostly), beef tomatoes, avocadoes, dragon fruit, mangoes and apples.
 
 The daily photos has allowed me to generate time lapses such as this:
-<video src="./plant-lapse-2.mp4" width="500"/>
+
+https://user-images.githubusercontent.com/11015467/176962284-e78d4e6d-e8e0-45c0-bf53-d16b51ea35c5.mp4
 
 ##### 07-23-2020
 
