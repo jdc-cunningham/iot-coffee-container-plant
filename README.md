@@ -44,6 +44,15 @@ Also I did do a pretty good amount of error checking eg. in case folders fail to
 
 #### Progress
 
+##### 07-01-2022
+<img src="./growth-setup.JPG" width="800"/>
+So this definitely expanded... the functionality has remained the same. Main change is the type of bulb. I am using these `ultra light LED` bubs `LED A21` 3010 lumens.
+
+I'm growing: bell peppers (mostly), beef tomatoes, avocadoes, dragon fruit, mangoes and apples.
+
+The daily photos has allowed me to generate time lapses such as this:
+<video src="./plant-lapse-2.mp4" width="500"/>
+
 ##### 07-23-2020
 
 ###### Working setup (video)
