@@ -44,6 +44,26 @@ Also I did do a pretty good amount of error checking eg. in case folders fail to
 
 #### Progress
 
+##### 07-01-2023
+
+<img src="./2023-06-12--plants.png"/>
+
+At this point I have moved the garden, added another light.
+
+I currently have:
+
+- apples
+- avocados
+- china doll
+- bell peppers (most of bottom right)
+- dragon fruit (bk cup)
+- pomegranate (below bk cup in coffee creamer)
+- tomatoes
+
+whoa this date update is purely coincidence I will say
+
+Photo is from 06-12-2023
+
 ##### 07-01-2022
 <img src="./growth-setup.JPG" width="800"/>
 So this definitely expanded... the functionality has remained the same. Main change is the type of bulb. I am using these `ultra light LED` bubs `LED A21` 3010 lumens.
